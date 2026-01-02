@@ -1,0 +1,4 @@
+requests
+pandas
+numpy
+certifi==2025.1.31
